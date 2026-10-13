@@ -1,7 +1,6 @@
 ---
 created: 2020-05-01T15:12:00
 updated: 2024-04-02T15:16
-url: https://profitablebusinessmodels.com
 title: Profitable Business Models
 description: Blog o modelach biznesowych
 tags:
@@ -22,7 +21,7 @@ Miałem już sporo doświadczeń z różnymi startupami i tworzeniem Business Mo
 
 Pomyślałem, że możnaby spróbować zrobić bloga, na którym mogę publikować wpisy na ten temat i pokazywać czytelnikom na realnych przykładach jak można tworzyć zyskowne, innowacyjne modele biznesowe.
 
-Nazwałem go [Profitable Business Models](https://profitablebusinessmodels.com/)
+Nazwałem go Profitable Business Models
 
 ## Co to jest Business Model Canvas?
 
