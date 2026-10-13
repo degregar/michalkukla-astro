@@ -6,4 +6,4 @@ description: Sprzedaż detaliczna tabletu e-ink
 ---
 Pomysł biznesowy polegał na dystrubucji chińskiego notatnika typu e-ink w Europie.
 
-Historię opisałem na blogu Profitable Business Models: https://profitablebusinessmodels.com/business-idea-e-ink-notebook-supernote-distribution/
+Historię opisałem na blogu Profitable Business Models.

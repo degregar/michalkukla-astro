@@ -76,7 +76,7 @@ Biura się pozamykały i korpo w znacznej mierze przeszły w tryb pracy zdalnej.
 
 Trudno ocenić, bo nie mieliśmy za bardzo szansy na sprawdzenie tego w boju. W lutym dodatkowo trochę mi się na głowę zwaliło projektów dla klientów, więc miałem mniej czasu.
 
-Na pewno ograniczenie do jednego miasta było dobrym wyborem. Podobnie zrobił [Uber](https://profitablebusinessmodels.com/uber-business-model-canvas-history-ride-hailing-industry/) na początku, ograniczając się jedynie do San Francisco.
+Na pewno ograniczenie do jednego miasta było dobrym wyborem. Podobnie zrobił Uber na początku, ograniczając się jedynie do San Francisco.
 
 Liczyliśmy mocno na marketing szeptany, ale nie wiem, czy to by się sprawdziło. Prawdopodobnie potrzebowalibyśmy wsparcia marketingu płatnego przez jakiś czas, żeby rozbudować bazę kandydatów. Do tego newsletter, aby wysyłać do kandydatów powiadomienia o nowych ogłoszeniach w interesującej ich okolicy.
 

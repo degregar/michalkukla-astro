@@ -25,4 +25,4 @@ Pewnie z reklam moglibyśmy utrzymać częściowo serwis. Adsense wtedy już dzi
 ### Przekonania, które mnie blokowały:
 
 - Reklamy na stronach są ble. Taki Facebook na przykład nie miał wtedy reklam, więc sprzedawanie swojej przestrzeni było poniżej naszego poczucia godności.
-- Nie miałem pojęcia o różnych modelach biznesowych, widziałem tylko możliwość monetyzacji tego przez reklamy. Teraz chętnie podzieliłbym się zyskami z twórcami playlist, którzy sami by je reklamowali. A kasę bralibyśmy albo za reklamy albo subskrypcje. Może doszlibyśmy do modelu [Spotify](https://profitablebusinessmodels.com/spotify-business-model-canvas/)?
+- Nie miałem pojęcia o różnych modelach biznesowych, widziałem tylko możliwość monetyzacji tego przez reklamy. Teraz chętnie podzieliłbym się zyskami z twórcami playlist, którzy sami by je reklamowali. A kasę bralibyśmy albo za reklamy albo subskrypcje. Może doszlibyśmy do modelu Spotify?

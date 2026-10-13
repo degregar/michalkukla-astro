@@ -63,7 +63,7 @@ Na szczęście pisanie nie powoduje takich skutków jak uruchomienie kolejnego p
 
 Dzięki pisaniu udało mi się kilku projektów NIE uruchomić. Dałem upust energii i to były produktywne momenty.
 
-Kiedyś np. napisałem [post o modelu biznesowym dla firmy dystrybuującej Supernote](https://profitablebusinessmodels.com/business-idea-e-ink-notebook-supernote-distribution/), tablet e-ink, który nabyłem kilka tygodni wcześniej. Notatnik mi się spodobał, a że miałem pod górkę przy kupowaniu, bo importowałem go z Chin, to mogłem rozwiązać problem innych kupujących z Europy.
+Kiedyś np. napisałem post o modelu biznesowym dla firmy dystrybuującej Supernote, tablet e-ink, który nabyłem kilka tygodni wcześniej. Notatnik mi się spodobał, a że miałem pod górkę przy kupowaniu, bo importowałem go z Chin, to mogłem rozwiązać problem innych kupujących z Europy.
 
 Nieoczekiwanie miałem całkiem sporo wejść na bloga na ten właśnie post. Stosunkowo dużo więcej, niż z poprzednich artykułów, choć temat dość niszowy.
 
